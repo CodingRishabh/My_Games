@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=row\ col
+comment0.target=Move(int,\ int)
+comment1.params=
+comment1.target=Move()
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+numComments=4
